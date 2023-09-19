@@ -1,0 +1,22 @@
+{
+	" favorite movies": [
+		{
+			"Title": "Inception",
+			"Director": "Christopher Nolan",
+			"Rating": "PG-13",
+			"Year": "2010"
+		},
+		{
+			"Title": "Harry Potter Series",
+			"Director": "Chris Columbus, Alfonso Cuarón, Mike Newell, David Yates",
+			"Rating": "PG, PG-13",
+			"Year": "2001-2012"
+		},
+		{
+			"Title": "Superbad",
+			"Director": "Greg Mottola",
+			"Rating": "R",
+			"Year": "2007"
+		}
+	]
+}
